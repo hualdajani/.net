@@ -10,7 +10,11 @@ namespace SeleniumNUnitParam
 {
     public class BrowserTest : Hooks
     {
+        static void Main(string[] args)
+        {
+ 
 
+        }
 
         [Test]
         public void GoogleTest()
